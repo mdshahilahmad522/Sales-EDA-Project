@@ -1,7 +1,7 @@
 # Sales-EDA-Project
 
 
-BCA 2nd Year Project - Ecommerce Analysis
+BCA Project - Ecommerce Analysis
 
 Dataset: 10000 Orders
 Analysis:
