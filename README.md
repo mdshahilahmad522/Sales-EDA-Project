@@ -7,5 +7,6 @@ Dataset: 10000 Orders
 Analysis:
 1. Consumer segment orders the most
 2. Technology category has highest sales
-
+## Sales Graph
+![Graph](graph.png)
 Tools: Python, Pandas, Matplotlib, Google Colab
