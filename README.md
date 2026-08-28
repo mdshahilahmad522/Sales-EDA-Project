@@ -9,4 +9,16 @@ Analysis:
 2. Technology category has highest sales
 ## Sales Graph
 ![Graph](graph.png)
+# Sales-EDA-Project
+BCA 2nd Year Project - Ecommerce Analysis
+
+Dataset: 10000 Orders Analysis:
+1. Consumer segment orders the most
+2. Technology category has highest sales
+
+## Sales Graph
+![Sales Graph](graph.png)
+
+**Tools:** Python, Pandas, Matplotlib, Google Colab
+
 Tools: Python, Pandas, Matplotlib, Google Colab
